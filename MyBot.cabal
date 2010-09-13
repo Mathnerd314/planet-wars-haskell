@@ -1,0 +1,8 @@
+Name:           MyBot
+Version:        0.0
+Cabal-Version:  >= 1.2
+Build-Type:     Simple
+
+Executable my_bot
+  Build-Depends:  base >= 4, containers
+  Main-Is:        MyBot.hs
